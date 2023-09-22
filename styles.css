@@ -2,7 +2,8 @@
 #yellow{
 	background-color:yellow;
 	border: 1px solid;
-	border-top-color:rgb(0, 128, 0)
+	border-top-color:rgb(0, 128, 0);
+	border-bottom-color:rgb(0, 128, 0);
 }
 #red{
 	background-color:red;
@@ -11,5 +12,4 @@
 #green{
 	background-color:green;
 	border: 1px solid;
-	
 }
